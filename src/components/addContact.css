@@ -46,6 +46,7 @@ input {
 /* delete-btn */
 .delete {
   color: black;
+  background-color:red;
 }
 /* delete-btn Hover */
 .delete:hover {
